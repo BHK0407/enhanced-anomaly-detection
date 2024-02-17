@@ -1,7 +1,9 @@
 Enhanced Anomaly Detection
+
 Enhanced Anomaly Detection is a network security tool implemented in Python for identifying potential threats in network traffic. It combines signature-based and anomaly-based detection methods to enhance network security.
 
 Features
+
 Signature-based detection of known threats.
 Anomaly-based detection to identify unusual patterns in network traffic.
 Email notifications for detected threats.
@@ -22,8 +24,13 @@ Run the anomaly detection script.
 bash
 Copy code
 sudo python3 enhanced_anomaly_detection.py
+
+
 Dependencies
+
 Python 3
 Scapy
+
+
 License
 This project is licensed under the MIT License.
