@@ -14,6 +14,7 @@ Clone the repository.
 bash
 
 git clone https://github.com/BHK0407/enhanced-anomaly-detection.git
+
 Navigate to the project directory.
 
 bash
