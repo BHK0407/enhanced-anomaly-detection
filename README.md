@@ -12,17 +12,17 @@ Usage
 Clone the repository.
 
 bash
-Copy code
+
 git clone https://github.com/BHK0407/enhanced-anomaly-detection.git
 Navigate to the project directory.
 
 bash
-Copy code
+
 cd enhanced-anomaly-detection
 Run the anomaly detection script.
 
 bash
-Copy code
+
 sudo python3 enhanced_anomaly_detection.py
 
 
